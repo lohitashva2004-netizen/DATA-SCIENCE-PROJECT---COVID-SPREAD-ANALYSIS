@@ -1,7 +1,7 @@
 # =============================================================================
 # COVID-19 Spread Pattern Analysis
 # Domain: Healthcare | Dataset: COVID-19 Clean Complete
-# Author: Data Science Project | Year: 3rd Year ECE
+# Author: LOHITASHVA V.S | Year: 3rd Year ECE
 # =============================================================================
 
 # ── 1. IMPORTS ────────────────────────────────────────────────────────────────
